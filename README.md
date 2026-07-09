@@ -1,16 +1,14 @@
-## Hi there 👋
+# 안녕하세요, 최희진입니다 👋
 
-<!--
-**choi1026/choi1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+고려대학교 세종캠퍼스 빅데이터사이언스학부 26학번
 
-Here are some ideas to get you started:
+## 🌱 Now
+- ADsP 자격증 준비 중 (2026.08 시험)
+- R, 통계, 선형대수 공부 중
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+- Data Science / Machine Learning
+- Data Analysis
+
+## 📫 Contact
+- Email: choi1026@korea.ac.kr
